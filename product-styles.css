@@ -1,0 +1,103 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica", Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+/* ~~ Top Navigation Bar ~~ */
+#navigation-container {
+  width: 95%;
+  margin: 0 auto;
+  height: 100px;
+}
+
+.navigation-bar {
+  height: 100px;
+  width: 100%;
+  text-align: center;
+}
+.navigation-bar img{
+  float:left;
+}
+.navigation-bar ul {
+  padding: 15px;
+  margin: 0px;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+  float: left;
+}
+
+.navigation-bar li {
+  list-style-type: none;
+  padding: 0px;
+  height: 24px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  display: inline;
+}
+
+.navigation-bar li a {
+  color: black;
+  font-size: 16px;
+  text-decoration: none;
+  line-height: 70px;
+  padding: 5px 15px;
+  opacity: 0.7;
+}
+
+div.gallery {
+  border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: left;
+  line-height: 1.4;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 40px 40px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
