@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Circle Scarves</title>
+</head>
+<body>
+
+  <div class="navigation-bar">
+    <div id="navigation-container">
+      <img src="https://benkwan26.github.io/helbe/images/helbe-logo-l.png" width="164" height="100">
+         <ul>
+           <li><a href="#">HOME</a></li>
+           <li><a href="#">ABOUT</a></li>
+           <li><a href="#">FABRICS</a></li>
+         </ul>
+     </div>
+  </div>
+  
+  <h1>CIRCLE SCARVES</h1>
+  <p>Machine wash cold. Hang to dry.</p>
+ 
+  <div class="responsive">
+    <div class="gallery">
+      <img src="https://benkwan26.github.io/helbe/images/scarves/brown-white-plaid.png" alt="Cinque Terre" width="400" height="400">
+      <div class="desc"><b>Brown and White Plaid</b><br>Width: 9"<br>Material: 100% Cotton</div>
+    </div>
+  </div>
+
+<div class="responsive">
+    <div class="gallery">
+      <img src="https://benkwan26.github.io/helbe/images/scarves/brown-turquoise-plaid-9.png" alt="Cinque Terre" width="400" height="400">
+      <div class="desc"><b>Brown and Light Blue Plaid</b><br>Width: 9"<br>Material: 100% Cotton</div>
+    </div>
+  </div>
+
+  <div class="responsive">
+    <div class="gallery">
+      <img src="https://benkwan26.github.io/helbe/images/scarves/grey-cascade.png" alt="Cinque Terre" width="400" height="400">
+      <div class="desc"><b>Grey Cascade</b><br>Width: 29"<br>Material: 96% Polyester, 4% Spandex, DOUBLE LAYERED</div>
+    </div>
+  </div>
+
+  <div class="responsive">
+    <div class="gallery">
+      <img src="https://benkwan26.github.io/helbe/images/scarves/red-green-plaid-9.png" alt="Cinque Terre" width="400" height="400">
+      <div class="desc"><b>Red and Dark Green Plaid</b><br>Width: 9"<br>Material: 100% Prewashed, Preshrunk Cotton</div>
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <img src="https://benkwan26.github.io/helbe/images/scarves/red-earth.png" alt="Cinque Terre" width="400" height="400">
+      <div class="desc"><b>Red Earth</b><br>Width: 20"<br>Material: 81% Polyester, 15% Rayon, 4% Spandex</div>
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <img src="https://benkwan26.github.io/helbe/images/scarves/grey-leopard.png" alt="Cinque Terre" width="400" height="400">
+      <div class="desc"><b>Grey Leopard</b><br>Width: 32"<br>Material: 85% Polyester, 10% Rayon, 5% Spandex</div>
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <img src="https://benkwan26.github.io/helbe/images/scarves/black-blue-plaid.png" alt="Cinque Terre" width="400" height="400">
+      <div class="desc"><b>Black and Dark Blue Plaid</b><br>Width: 14"<br>Material: 100% Cotton</div>
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <img src="https://benkwan26.github.io/helbe/images/scarves/brown-turquoise-14.png" alt="Cinque Terre" width="400" height="400">
+      <div class="desc"><b>Brown and Light Blue Plaid</b><br>Width: 14"<br>Material: 100% Cotton</div>
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <img src="https://benkwan26.github.io/helbe/images/scarves/cyan-buffalo-plaid.png" alt="Cinque Terre" width="400" height="400">
+      <div class="desc"><b>Light Blue Buffalo Plaid</b><br>Width: 14"<br>Material: 100% Cotton</div>
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <img src="https://benkwan26.github.io/helbe/images/scarves/white-red-buffalo-plaid-14.png" alt="Cinque Terre" width="400" height="400">
+      <div class="desc"><b>White and Red Buffalo Plaid</b><br>Width: 14"<br>Material: 50% Polyester, 40% Cotton, 10% Rayon</div>
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <img src="https://benkwan26.github.io/helbe/images/scarves/red-green-plaid-14.png" alt="Cinque Terre" width="400" height="400">
+      <div class="desc"><b>Red and Dark Green Plaid</b><br>Width: 14"<br>Material: 100% Cotton</div>
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <img src="https://benkwan26.github.io/helbe/images/scarves/unicorn.png" alt="Cinque Terre" width="400" height="400">
+      <div class="desc"><b>Unicorn</b><br>Width: 20"<br>Material: 100% Cotton</div>
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <img src="https://benkwan26.github.io/helbe/images/scarves/pink-plaid.png" alt="Cinque Terre" width="400" height="400">
+      <div class="desc"><b>Pink Plaid</b><br>Width: 21"<br>Material: 100% Cotton</div>
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <img src="https://benkwan26.github.io/helbe/images/scarves/black-red-plaid.png" alt="Cinque Terre" width="400" height="400">
+      <div class="desc"><b>Black and Red _ Plaid</b><br>Width: 20"<br>Material: 100% Cotton</div>
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <img src="https://benkwan26.github.io/helbe/images/scarves/turquoise-white-plaid.png" alt="Cinque Terre" width="400" height="400">
+      <div class="desc"><b>Light Blue and White Plaid</b><br>Width: 14"<br>Material: 100% Cotton</div>
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <img src="https://benkwan26.github.io/helbe/images/scarves/turquoise-brown-plaid.png" alt="Cinque Terre" width="400" height="400">
+      <div class="desc"><b>Brown and Turquoise Plaid</b><br>Width: 14"<br>Material: 100% Cotton</div>
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <img src="https://benkwan26.github.io/helbe/images/scarves/black-grey-plaid.png" alt="Cinque Terre" width="400" height="400">
+      <div class="desc"><b>Black and Grey _ Plaid</b><br>Width: 14"<br>Material: 100% Cotton</div>
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <img src="https://benkwan26.github.io/helbe/images/scarves/grey-checker.png" alt="Cinque Terre" width="400" height="400">
+      <div class="desc"><b>Grey Checker</b><br>Width: 20"<br>Material: 100% Cotton</div>
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <img src="https://benkwan26.github.io/helbe/images/scarves/white-red-buffalo-plaid-9.png" alt="Cinque Terre" width="400" height="400">
+      <div class="desc"><b>White and Red Buffalo Plaid</b><br>Width: 9"<br>Material: 50% Polyester, 40% Cotton, 10% Rayon</div>
+    </div>
+  </div>
+
+  <div class="clearfix"></div>
+</body>
+</html>
