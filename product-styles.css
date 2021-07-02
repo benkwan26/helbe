@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: "Helvetica", Arial, Helvetica, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 
 h1 {
@@ -25,15 +25,17 @@ p {
   text-align: center;
 }
 .navigation-bar img{
+  padding: 4px;
   float:left;
 }
 .navigation-bar ul {
-  padding: 15px;
+  padding: 20px;
   margin: 0px;
   text-align: center;
   display: inline-block;
   vertical-align: top;
   float: left;
+  height: 100px;
 }
 
 .navigation-bar li {
