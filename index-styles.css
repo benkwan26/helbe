@@ -9,11 +9,7 @@ a {
   color: black;
 }
 
-.logo {
-  float: left;
-}
 /* ~~ Top Navigation Bar ~~ */
-
 #navigation-container {
   width: 95%;
   margin: 0 auto;
